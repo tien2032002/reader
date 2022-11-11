@@ -1,0 +1,4 @@
+spi.c:19:6:initSPI1	4	static
+spi.c:57:9:SPI1SendByte	16	static
+spi.c:64:6:SPI1_WriteReg	16	static
+spi.c:71:9:SPI1_ReadReg	24	static
